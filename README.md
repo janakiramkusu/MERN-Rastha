@@ -9,7 +9,7 @@ Rastha is a restaurant management system built using the **MERN stack** (MongoDB
 ### 1. **Register**
 Restaurant owners can create an account to manage their restaurant.
 
-![Register](rastha-pics-for-readme/vendorregister.png)  
+![Register](rastha-pics-for-readme/vendorregister.png)  <br>
 ![Registered Successfully](rastha-pics-for-readme/vendor-registered-successfully.png)
 
 ---
@@ -17,31 +17,33 @@ Restaurant owners can create an account to manage their restaurant.
 ### 2. **Login**
 Owners can log into their account to access the restaurant dashboard.
 
-![Login](rastha-pics-for-readme/vendorlogin.png)
+![Login](rastha-pics-for-readme/vendorlogin.png) <br>
+1[Login Successfully]() 
 
 ---
 
 ### 3. **Add Restaurant Details**
 Restaurant owners can provide restaurant information, such as name, address, and other details.
 
-![Add Restaurant](rastha-pics-for-readme/add-firm.png)  
-![Added Successfully 1](rastha-pics-for-readme/add-firm-successfully1.png)  
-![Added Successfully 2](rastha-pics-for-readme/add-firm-successfully-2.png)
+![Add Restaurant](rastha-pics-for-readme/add-firm.png) <br> 
+![Added Successfully 1](rastha-pics-for-readme/add-firm-successfully1.png) <br>  
+![Added Successfully 2](rastha-pics-for-readme/add-firm-sucessfully-2.png) 
 
 ---
 
 ### 4. **Add Products**
 Restaurant owners can add products (e.g., menu items) for their restaurant.
 
-![Add Product](rastha-pics-for-readme/add-product.png)  
-![Product Added Successfully](rastha-pics-for-readme/add-product-successfully.png)
+![Add Product](rastha-pics-for-readme/add-product.png)  <br>
+![Product Added Successfully](rastha-pics-for-readme/add-product-sucessfully.png) <br>
 
 ---
 
 ### 5. **All Products**
 Owners can view and delete products from their menu.
 
-![All Products](rastha-pics-for-readme/All-products.png)
+![Home page](rastha-pics-for-readme/rastha ui home.png) <br>
+![All Products](rastha-pics-for-readme/All-products.png) 
 
 ---
 
