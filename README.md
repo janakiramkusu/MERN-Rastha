@@ -9,7 +9,7 @@ Rastha is a restaurant management system built using the **MERN stack** (MongoDB
 ### 1. **Register**
 Restaurant owners can create an account to manage their restaurant.
 
-![Register](rastha pics for readme/vendorregister.png) (rastha pics for readme/vendor registered successfully.png)
+![Register](rasthapicsforreadme/vendorregister.png) (rasthapicsforreadme/vendorregisteredsuccessfully.png)
 
 ---
 
