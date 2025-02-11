@@ -18,7 +18,7 @@ Restaurant owners can create an account to manage their restaurant.
 Owners can log into their account to access the restaurant dashboard.
 
 ![Login](rastha-pics-for-readme/vendorlogin.png) <br>
-1[Login Successfully]() 
+1[Login Successfully](rastha-pics-for-readme/vendor-login-succesfully.png) 
 
 ---
 
