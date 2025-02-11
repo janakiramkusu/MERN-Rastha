@@ -9,35 +9,40 @@ Rastha is a restaurant management system built using the **MERN stack** (MongoDB
 ### 1. **Register**
 Restaurant owners can create an account to manage their restaurant.
 
-![Register](rastha-pics-for-readme/vendorregister.png) (rasthapicsforreadme/vendorregisteredsuccessfully.png)
+![Register](rastha-pics-for-readme/vendorregister.png) 
+(rastha-pics-for-readme/vendor-registered-successfully.png)
 
 ---
 
 ### 2. **Login**
 Owners can log into their account to access the restaurant dashboard.
 
-![Login](rastha pics for readme/vendorlogin.png) ()
+![Login](rastha pics for readme/vendorlogin.png) (rastha-pics-for-readme/vendorlogin.png)
+()
 
 ---
 
 ### 3. **Add Restaurant Details**
 Restaurant owners can provide restaurant information, such as name, address, and other details.
 
-![Add Restaurant Details](url-to-your-image)
+![Add Restaurant Details](rastha-pics-for-readme/add-firm.png)
+(rastha-pics-for-readme/add-firm-successfully1.png)
+(rastha-pics-for-readme/add-firm-successfully-2.png)
 
 ---
 
 ### 4. **Add Products**
 Restaurant owners can add products (e.g., menu items) for their restaurant.
 
-![Add Products](url-to-your-image)
+![Add Products](rastha-pics-for-readme/add-product.png)
+(rastha-pics-for-readme/add-product-successfully.png)
 
 ---
 
-### 5. **Delete Products**
-Owners can delete products from their menu.
+### 5. **All Products**
+Owners can view and delete products from their menu.
 
-![Delete Products](url-to-your-image)
+![Delete Products](rastha-pics-for-readme/All-products.png )
 
 ---
 
@@ -46,14 +51,14 @@ Owners can delete products from their menu.
 ### 6. **Display Restaurants**
 Users can view a list of available restaurants.
 
-![Display Restaurants](url-to-your-image)
-
+![Display Restaurants](rastha-pics-for-readme/rastha-ui-home.png )
+(rastha-pics-for-readme/rastha-firm-added.png)
 ---
 
 ### 7. **Display Products**
 Users can explore the products (menu items) of each restaurant.
 
-![Display Products](url-to-your-image)
+![Display Products](rastha-pics-for-readme/rastha-product-added.png)
 
 ---
 
